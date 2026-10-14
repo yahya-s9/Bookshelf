@@ -14,10 +14,9 @@ How to think about the performance of large language models on TPUs and GPUs: ro
 
 ## Neural Networks
 - author: Grant Sanderson (3Blue1Brown)
-- subtitle: A Visual Video Series
+- subtitle: 3Blue1Brown
 - spine: Neural Networks
 - cover: plum
-- edition: Video Series
 - link: https://github.com/yahya-s9/Yahyas-Machine-Learning-Notes/tree/main/3b1b_neural_networks
 
 A visual introduction to neural networks: gradient descent, backpropagation, and how transformers work.
