@@ -1,6 +1,5 @@
 ---
 arabic: تعلّم الآلة
-plinth: Rukn al-Ta'allum
 ---
 
 ## How to Scale Your Model

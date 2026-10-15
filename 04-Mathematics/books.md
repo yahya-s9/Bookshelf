@@ -1,6 +1,5 @@
 ---
 arabic: ریاضیات
-plinth: Rukn al-Riyadiyyat
 bookend: brass
 ---
 

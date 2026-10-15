@@ -1,7 +1,6 @@
 ---
 title: Seerah
 arabic: السيرة النبوية
-plinth: Rukn al-Sirah
 ---
 
 ## The Life of the Prophet ﷺ

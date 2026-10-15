@@ -1,7 +1,6 @@
 ---
 title: Tazkiyah
 arabic: تزكية النفس
-plinth: Rukn al-Tazkiyah
 bookend: brass
 ---
 

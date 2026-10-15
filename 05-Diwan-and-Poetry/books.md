@@ -1,7 +1,6 @@
 ---
 title: Diwan & Poetry
 arabic: دیوان و ادب
-plinth: Rukn al-Adab
 ---
 
 ## Divan of Hafez
