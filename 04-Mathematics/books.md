@@ -5,7 +5,7 @@ bookend: brass
 
 ## Essence of Linear Algebra
 - author: Grant Sanderson (3Blue1Brown)
-- arabic: خطی الجبرا کا جوہر
+- arabic: ایسنس آف لینیئر الجبرا
 - authorArabic: گرانٹ سینڈرسن
 - subtitle: 3Blue1Brown
 - spine: Linear Algebra

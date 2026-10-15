@@ -4,7 +4,7 @@ arabic: تعلّم الآلة
 
 ## How to Scale Your Model
 - author: Jacob Austin
-- arabic: اپنے ماڈل کو اسکیل کیسے کریں
+- arabic: ہاؤ ٹو اسکیل یور ماڈل
 - authorArabic: جیکب آسٹن
 - subtitle: A Systems View of LLMs on TPUs
 - spine: Scale Your Model
