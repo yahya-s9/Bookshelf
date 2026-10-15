@@ -9,7 +9,6 @@ bookend: brass
 - authorArabic: حمزہ یوسف
 - subtitle: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
 - arabic: تزكية القلب
-- spine: Pure Heart
 - cover: dual
 - edition: Lecture Series
 - link: https://github.com/yahya-s9/deen/tree/main/Tazkiyah/hamza_yusuf_pure_heart

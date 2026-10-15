@@ -9,6 +9,7 @@ arabic: دیوان و ادب
 - subtitle: The Celebrated Lyric Ghazals
 - arabic: دیوانِ خواجه حافظ شیرازی
 - cover: cinnabar
+- spine: دیوانِ حافظ
 - school: Shiraz School
 - date: 792 A.H. / 1390 C.E.
 - binding: Gilded Moroccan Leather

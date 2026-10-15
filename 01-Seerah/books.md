@@ -8,7 +8,6 @@ arabic: السيرة النبوية
 - authorArabic: یاسر قاضی
 - subtitle: The Seerah Series
 - arabic: السيرة النبوية
-- spine: Seerah
 - cover: malachite
 - size: big
 - edition: Lecture Series

@@ -7,7 +7,6 @@ arabic: تعلّم الآلة
 - arabic: ہاؤ ٹو اسکیل یور ماڈل
 - authorArabic: جیکب آسٹن
 - subtitle: A Systems View of LLMs on TPUs
-- spine: Scale Your Model
 - cover: teal
 - edition: Online Book
 
@@ -18,7 +17,6 @@ How to think about the performance of large language models on TPUs and GPUs: ro
 - arabic: نیورل نیٹ ورکس
 - authorArabic: گرانٹ سینڈرسن
 - subtitle: 3Blue1Brown
-- spine: Neural Networks
 - cover: plum
 - link: https://github.com/yahya-s9/Yahyas-Machine-Learning-Notes/tree/main/3b1b_neural_networks
 
