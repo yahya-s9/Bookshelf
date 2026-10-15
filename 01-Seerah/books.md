@@ -5,6 +5,7 @@ arabic: السيرة النبوية
 
 ## The Life of the Prophet ﷺ
 - author: Yasir Qadhi
+- authorArabic: یاسر قاضی
 - subtitle: The Seerah Series
 - arabic: السيرة النبوية
 - spine: Seerah

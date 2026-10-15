@@ -6,6 +6,7 @@ bookend: brass
 
 ## Purification of the Heart
 - author: Hamza Yusuf
+- authorArabic: حمزہ یوسف
 - subtitle: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
 - arabic: تزكية القلب
 - spine: Pure Heart

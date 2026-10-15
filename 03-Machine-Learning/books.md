@@ -4,6 +4,8 @@ arabic: تعلّم الآلة
 
 ## How to Scale Your Model
 - author: Jacob Austin
+- arabic: اپنے ماڈل کو اسکیل کیسے کریں
+- authorArabic: جیکب آسٹن
 - subtitle: A Systems View of LLMs on TPUs
 - spine: Scale Your Model
 - cover: teal
@@ -13,6 +15,8 @@ How to think about the performance of large language models on TPUs and GPUs: ro
 
 ## Neural Networks
 - author: Grant Sanderson (3Blue1Brown)
+- arabic: نیورل نیٹ ورکس
+- authorArabic: گرانٹ سینڈرسن
 - subtitle: 3Blue1Brown
 - spine: Neural Networks
 - cover: plum
