@@ -9,6 +9,7 @@ bookend: brass
 - authorArabic: گرانٹ سینڈرسن
 - subtitle: 3Blue1Brown
 - cover: lapis
+- style: label
 - link: https://github.com/yahya-s9/Yahyas-Machine-Learning-Notes/tree/main/3b1b_linear_algebra
 
 A geometric, visual introduction to vectors, linear transformations, determinants, eigenvectors and more.

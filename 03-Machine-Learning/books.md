@@ -8,6 +8,7 @@ arabic: تعلّم الآلة
 - authorArabic: جیکب آسٹن
 - subtitle: A Systems View of LLMs on TPUs
 - cover: teal
+- style: label
 - edition: Online Book
 
 How to think about the performance of large language models on TPUs and GPUs: rooflines, sharding, and parallelism.
