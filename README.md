@@ -38,6 +38,6 @@ Each `## Heading` is one book. **Only the heading is required**; everything else
 | `cover` | Colour: `cinnabar` `lapis` `malachite` `saffron` `onyx` `plum` `terracotta` `teal` `umber` `dual` |
 | `spine` | Text printed on the spine (default: the title, shortened) |
 | `size` | `big` for a large tome |
-| `format` | `flat` lays the book horizontally in a pile at the right end of the shelf |
+| `format` | `flat` lays the book horizontally in a pile at the right end of the shelf; `scroll` rolls it up and slides it into the scroll box (four square cubbies, beside the pile) |
 
 If this repo is empty or unreachable the site shows its built-in sample shelves.
